@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibraryManagement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/review-3-and-4-main/dist/LibraryManagement.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
